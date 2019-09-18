@@ -18,4 +18,4 @@ ggplot(swiss)+
 * Monet - The Poppies. [Source](https://artsandculture.google.com/asset/poppy-field/xQGTinA-MPxcVg?hl=fr)
 
 Name of the palette : Monet_Poppies
-![Monet_Poppies](PaletteMonet.jpg)
+![Monet_Poppies](images/PaletteMonet.jpg)
