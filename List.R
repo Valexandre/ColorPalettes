@@ -1,1 +1,1 @@
-Monet_Poppies_Order<-c("#CCCCCC", "#E6CCCC", "#E6E6CC", "#CCCCB3", "#E6E6E6", "#B3B3CC", "#B3CCCC", "#E6804D", "#CCB3B3", "#CCE6CC", "#E68066", "#CCB380", "#CCE6E6", "#99B3CC", "#E69966", "#E66633", "#E69980", "#CCCCE6")
+Monet_Poppies<-c("#CCCCCC", "#E6CCCC", "#E6E6CC", "#CCCCB3", "#E6E6E6", "#B3B3CC", "#B3CCCC", "#E6804D", "#CCB3B3", "#CCE6CC", "#E68066", "#CCB380", "#CCE6E6", "#99B3CC", "#E69966", "#E66633", "#E69980", "#CCCCE6")
