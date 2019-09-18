@@ -19,3 +19,9 @@ ggplot(swiss)+
 
 Name of the palette : Monet_Poppies
 ![Monet_Poppies](images/PaletteMonet.jpg)
+
+
+* Degas - Ballet rehearsal on stage . [Source](https://www.musee-orsay.fr/en/collections/works-in-focus/search.html?no_cache=1&zoom=1&tx_damzoom_pi1%5BshowUid%5D=119063)
+
+Name of the palette : Degas_Ballet
+![Degas_Ballet](images/PaletteDegas.jpg)
