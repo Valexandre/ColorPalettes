@@ -1,5 +1,5 @@
 # ColorPalettes
-Color palettes created from famous paintings
+Color palettes created from famous paintings, for R.
 
 ## About this project
 Creating colour palettes usable with R, based on paintings. Yes. That's even more color palettes on top of all the existing ones. Sorry.
