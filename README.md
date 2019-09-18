@@ -9,13 +9,13 @@ By making a link to the [List.R](https://github.com/Valexandre/ColorPalettes/blo
 
 ```
 source("https://raw.githubusercontent.com/Valexandre/ColorPalettes/master/List.R")
-
-
+ggplot(swiss)+
+  geom_point(aes(Fertility,Agriculture,colour=rownames(swiss),size=Examination))+
+  scale_colour_manual(values=rep(Monet_Poppies,5))+theme_minimal()
 ```
 
 
 * Monet - The Poppies. [Source](https://artsandculture.google.com/asset/poppy-field/xQGTinA-MPxcVg?hl=fr)
-Name of the palette : Monet_Poppies
 
-Image of painting and the palette
-[![Monet_Poppies][images/PaletteMonet.jpg]]
+Name of the palette : Monet_Poppies
+![Monet_Poppies](PaletteMonet.jpg)
