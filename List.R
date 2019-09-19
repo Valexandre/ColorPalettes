@@ -1,2 +1,4 @@
 Monet_Poppies<-c("#CCCCCC", "#E6CCCC", "#E6E6CC", "#CCCCB3", "#E6E6E6", "#B3B3CC", "#B3CCCC", "#E6804D", "#CCB3B3", "#CCE6CC", "#E68066", "#CCB380", "#CCE6E6", "#99B3CC", "#E69966", "#E66633", "#E69980", "#CCCCE6")
 Degas_Ballet<-c("#CCCCB3", "#B3B399", "#CCB399", "#CCB3B3", "#E6CCCC", "#CCCCCC", "#B3B3B3", "#E6CCB3", "#E6E6CC", "#CCCC99", "#E6E6E6", "#CCB380")
+Monet_SaintLazare1<-c("#B3B3B3", "#CCCCB3", "#CCB3B3", "#9999B3", "#CCB399", "#CCCCCC", "#E6CCB3", "#99B3B3", "#B39966", "#E6E6CC", "#E6CCCC", "#CCCC99", "#CCB380", "#B3B3CC", "#B399B3")
+Monet_SaintLazare2<-c("#E6E6CC", "#E6CCB3", "#E6CCCC", "#CCCCCC", "#CCCCB3", "#CCB399", "#CCCC99", "#CCB3B3", "#B3B3CC", "#CCB380", "#B39966", "#B3B3B3", "#99B3B3", "#B399B3", "#9999B3")
