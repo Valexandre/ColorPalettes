@@ -25,3 +25,9 @@ Name of the palette : Monet_Poppies
 
 Name of the palette : Degas_Ballet
 ![Degas_Ballet](images/PaletteDegas.jpg)
+
+
+* Monet - La Gare Saint-Lazare . [Source](https://art.rmngp.fr/fr/library/artworks/claude-monet_la-gare-saint-lazare_huile-sur-toile_1877/download/145935)
+
+Names of the palettes : Monet_Lazare1 & Monet_Lazare2
+![Monet_SaintLazare](images/PaletteMonetSaintLazare.jpg)
