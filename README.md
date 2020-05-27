@@ -28,9 +28,13 @@ If you came here for the Van Itten color theory palettes, you can copy this link
 
 * DarkBlueGrad
 * LightBlueGrad
+* OrangeGrad
+* YellowGrad
+* RaspGrad
+* RedGrad
 * PinkGrad
 * PlumGrad
-* RedGrad
+* PurpleGrad
 * RiverGreenGrad
 * GrassGreenGrad
 * TurquoiseGrad
