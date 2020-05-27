@@ -15,6 +15,8 @@ ggplot(swiss)+
   scale_colour_manual(values=rep(Monet_Poppies,5))+theme_minimal()
 ```
 If you came here for the Van Itten color theory palettes, you can copy this link to your script and call one of these vectors :
+![VanItten](images/VanItten.jpg)
+
 * Rainbow
 * Rainbow_1
 * Rainbow_2
